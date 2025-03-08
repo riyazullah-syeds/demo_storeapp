@@ -1,2 +1,2 @@
 # demo_storeapp
-Testing purpose we designed Store App
+Testing purpose I designed Store App
